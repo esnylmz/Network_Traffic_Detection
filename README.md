@@ -89,7 +89,8 @@ scikit-learn
 Follow these steps to run the project:
 
 ->For best practice:
-Create a new empty folder where you wat to download the project.
+- Create a new empty folder where you want to download the project.
+- Then download the data from the link in zip form and download the CSV files in it to the same folder.
 
 1.Open the terminal in your vscode editor. Inside the terminal, proceed with these codes below:
 
