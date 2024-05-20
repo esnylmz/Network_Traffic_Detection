@@ -109,7 +109,7 @@ Follow these steps to run the project:
  - pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 
 Note: If there are any errors with the imports of the files, try to copy the paths of the files when you add to VsCode
-It should look like this:
+- It should look like this:
 
 - df1=pd.read_csv("C:\\Users\\userX\Desktop\\abcdef\\Network_Traffic_Detection\\MachineLearningCSV\\MachineLearningCVE\\Monday-WorkingHours.pcap_ISCX.csv")
 - df2=pd.read_csv("C:\\Users\\userX\\Desktop\\abcdef\\Network_Traffic_Detection\\MachineLearningCSV\\MachineLearningCVE\\Tuesday-WorkingHours.pcap_ISCX.csv")
