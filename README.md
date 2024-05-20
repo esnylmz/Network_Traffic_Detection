@@ -20,7 +20,7 @@ Secondly, and explanatory data analysis was conducted on the processed data.
 In the last step, 4 different classification models were trained and tested. With the RandomForestClassifier model, the correct detection of the network traffic data's type is achieved with an accuracy of 99%.
 
 
-<img src="https://github.com/esnylmz/Network_Traffic_Detection/assets/102979440/598bd1c1-7f86-4e18-bbf0-dd2b1222e340" alt="table-chart" width="300"/>
+<img src="https://github.com/esnylmz/Network_Traffic_Detection/assets/102979440/598bd1c1-7f86-4e18-bbf0-dd2b1222e340" alt="table-chart" width="400"/>
 
 
 
