@@ -7,11 +7,23 @@ The obtained data set was stored in 8 different CSV files. These are drawn separ
 
 Within the scope of this project, it is aimed to detect and classify cyber security threats by applying various data mining techniques on the CIC-IDS2017 dataset. 
 
-First, it is aimed to understand the data set. The preparation of the data set for application to the models was provided by preprocessing steps such as reducing the NaN values, eliminating the multiplexing data, downsampling for the equal distribution of label classes, digitizing the label column for the use of the model, and making correlation and feature selection. 
+First, it is aimed to understand the data set. The preparation of the data set for application to the models was provided by preprocessing steps such as reducing the NaN values, eliminating the multiplexing data, downsampling for the equal distribution of label classes, digitizing the label column for the use of the model, and making correlation and feature selection. And our input data is ready!
 
-Secondly, and explanatory data analysis was conducted on the data.
+<img width="889" alt="image" src="https://github.com/esnylmz/Network_Traffic_Detection/assets/102979440/32f4155d-d4d7-482b-9841-501bf44ce473">
+
+
+
+
+Secondly, and explanatory data analysis was conducted on the processed data.
+
 
 In the last step, 4 different classification models were trained and tested. With the RandomForestClassifier model, the correct detection of the network traffic data's type is achieved with an accuracy of 99%.
+
+
+![table-chart](https://github.com/esnylmz/Network_Traffic_Detection/assets/102979440/598bd1c1-7f86-4e18-bbf0-dd2b1222e340)
+
+
+
 
 
 
