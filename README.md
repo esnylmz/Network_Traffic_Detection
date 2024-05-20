@@ -9,7 +9,7 @@ The obtained data set was stored in 8 different CSV files. These are drawn separ
 Within the scope of this project, it is aimed to detect and classify cyber security threats by applying various data mining techniques on the CIC-IDS2017 dataset. 
 
 ### The link of the dataset is included below:
-https://www.kaggle.com/datasets/cicdataset/cicids2017
+**https://www.kaggle.com/datasets/cicdataset/cicids2017**
 
 ### The Steps for Analyzing the Data and Training the Models
 First, it is aimed to understand the data set. The preparation of the data set for application to the models was provided by preprocessing steps such as reducing the NaN values, eliminating the multiplexing data, downsampling for the equal distribution of label classes, digitizing the label column for the use of the model, and making correlation and feature selection. And our input data is ready!
@@ -40,7 +40,13 @@ After downloading open Google Colab and click the "New Notebook" Tab that is vis
 
 Then just browse through your files and add our .ipynb file 🙂
 
-To rerun the processes, the CSV file link is added in the repo, download that CSV file and when you open the code, click at the file shaped icon at the right menu, and drag the CSV files there.
+- To rerun the processes, the CSV file link is added here: https://www.kaggle.com/datasets/cicdataset/cicids2017
+
+- You will click the download tab to download the 8 CSV files and they will be downloaded as archive.zip, inside the zip you can see the separate .csv files when you click the MachineLearning folder twice.
+
+<img width="751" alt="image" src="https://github.com/esnylmz/Network_Traffic_Detection/assets/102979440/936c1e85-f434-4568-9406-9538e402e9e9">
+
+- download that CSV file and when you open the code, click at the file shaped icon at the right menu, and drag the CSV files there (it is highlighted in the screenshot below):
 
 
 
@@ -50,8 +56,8 @@ To rerun the processes, the CSV file link is added in the repo, download that CS
 
 The code is ready for re-run, you can try and do all the things you want!! 🙂
 Note: If an error occurs with the CSV files' paths, click on one of the separate files and select 'copy the path' and add that path inside the code:
-df1=pd.read_csv("The new path you copied")
-df2=pd.read_csv("The new path of CSV file 2 you copied")
+- df1=pd.read_csv("The new path you copied")
+- df2=pd.read_csv("The new path of CSV file 2 you copied")
                       .....
                       .....
                       .....
@@ -98,9 +104,9 @@ Create a new empty folder where you wat to download the project.
 Note: If there are any errors with the imports of the files, try to copy the paths of the files when you add to VsCode
 It should look like this:
 
-df1=pd.read_csv("C:\\Users\\userX\Desktop\\abcdef\\Network_Traffic_Detection\\MachineLearningCSV\\MachineLearningCVE\\Monday-WorkingHours.pcap_ISCX.csv")
-df2=pd.read_csv("C:\\Users\\userX\\Desktop\\abcdef\\Network_Traffic_Detection\\MachineLearningCSV\\MachineLearningCVE\\Tuesday-WorkingHours.pcap_ISCX.csv")
-df3=pd.read_csv("C:\\Users\\userX\\Desktop\\abcdef\\Network_Traffic_Detection\\MachineLearningCSV\\MachineLearningCVE\\Wednesday-workingHours.pcap_ISCX.csv")
+- df1=pd.read_csv("C:\\Users\\userX\Desktop\\abcdef\\Network_Traffic_Detection\\MachineLearningCSV\\MachineLearningCVE\\Monday-WorkingHours.pcap_ISCX.csv")
+- df2=pd.read_csv("C:\\Users\\userX\\Desktop\\abcdef\\Network_Traffic_Detection\\MachineLearningCSV\\MachineLearningCVE\\Tuesday-WorkingHours.pcap_ISCX.csv")
+- df3=pd.read_csv("C:\\Users\\userX\\Desktop\\abcdef\\Network_Traffic_Detection\\MachineLearningCSV\\MachineLearningCVE\\Wednesday-workingHours.pcap_ISCX.csv")
 
 
 
