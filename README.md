@@ -20,7 +20,7 @@ Secondly, and explanatory data analysis was conducted on the processed data.
 In the last step, 4 different classification models were trained and tested. With the RandomForestClassifier model, the correct detection of the network traffic data's type is achieved with an accuracy of 99%.
 
 
-<img width="400" ![table-chart](https://github.com/esnylmz/Network_Traffic_Detection/assets/102979440/598bd1c1-7f86-4e18-bbf0-dd2b1222e340)>
+<img src="https://github.com/esnylmz/Network_Traffic_Detection/assets/102979440/598bd1c1-7f86-4e18-bbf0-dd2b1222e340" alt="table-chart" width="300"/>
 
 
 
@@ -47,3 +47,45 @@ The code is ready for re-run, you can try and do all the things you want!! 🙂
 Note: If an error occurs with the CSV files' paths, click on one of the separate files and select 'copy the path' and add that path inside the code:
 df1=pd.read_csv("The new path you copied")
 df2=pd.read_csv("The new path of CSV file 2 you copied")
+                      .....
+                      .....
+                      .....
+
+
+
+# Opening the code with the VSCode editor
+
+->Requirements:
+To run this project, the following software and libraries are required:
+Python 3.x
+Jupyter Notebook (VSCode) (Google Colab) (Kaggle)
+Pandas
+NumPy
+Matplotlib
+Seaborn
+scikit-learn
+
+
+->Installation:
+Follow these steps to run the project:
+
+->For best practice:
+Create a new empty folder where you wat to download the project.
+
+1.Open the terminal in your vscode editor. Inside the terminal, proceed with these codes below:
+
+2.Connect your computer to github:
+ git config --global user.name "Your Name"
+ git config --global user.email "your.email@example.com"
+
+3.Create a new folder then go to its path:
+ cd "Path of Your New Folder"
+
+4.Clone or download this project:
+ 
+ git clone https://github.com/esnylmz/Network_Traffic_Detection.git
+ cd Network_Traffic_Detection
+
+5.Install the required software and libraries if they're not already installed in your editor:
+ 
+ pip install pandas numpy matplotlib seaborn scikit-learn jupyter
