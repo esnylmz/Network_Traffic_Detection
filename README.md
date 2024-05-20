@@ -2,11 +2,12 @@
 Network Traffic and Intrusion Detection System with Data Mining Techniques Using the CIC-IDS2017 Dataset
 
 ## Authors
+- Group 10
 - Emine Esin YILMAZ-120200059
 - Pınar Sude GÜRDAMAR-120103073
 - Resul Erdem ARDUÇ-119200056
-GROUP NO: 10, MTH410
-
+- MTH 410
+  
 
 ### About the Dataset
 The CIC-IDS2017 dataset is one of the important datasets for cybersecurity analysis. The CIC-IDS2017 dataset contains benign and six common attack network flows, which mirror the true real-world data (PCAPs). Additionally, it contains labeled flows based on timestamps, source and destination IP addresses, source and destination ports, protocols, and attack from the network traffic analysis performed using CICFlowMeter.
