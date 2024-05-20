@@ -74,18 +74,18 @@ Create a new empty folder where you wat to download the project.
 
 1.Open the terminal in your vscode editor. Inside the terminal, proceed with these codes below:
 
-2.Connect your computer to github:
- git config --global user.name "Your Name"
- git config --global user.email "your.email@example.com"
+## Connect your computer to github:
+ - git config --global user.name "Your Name"
+ - git config --global user.email "your.email@example.com"
 
-3.Create a new folder then go to its path:
- cd "Path of Your New Folder"
+## Create a new folder then go to its path:
+ - cd "Path of Your New Folder"
 
-4.Clone or download this project:
+## Clone or download this project:
  
- git clone https://github.com/esnylmz/Network_Traffic_Detection.git
- cd Network_Traffic_Detection
+ - git clone https://github.com/esnylmz/Network_Traffic_Detection.git
+ - cd Network_Traffic_Detection
 
-5.Install the required software and libraries if they're not already installed in your editor:
+## Install the required software and libraries if they're not already installed in your editor:
  
- pip install pandas numpy matplotlib seaborn scikit-learn jupyter
+ - pip install pandas numpy matplotlib seaborn scikit-learn jupyter
