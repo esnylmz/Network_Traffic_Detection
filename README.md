@@ -1,12 +1,14 @@
 # Network_Traffic_Detection
 Network Traffic and Intrusion Detection System with Data Mining Techniques Using the CIC-IDS2017 Dataset
 
+### About the Dataset
 The CIC-IDS2017 dataset is one of the important datasets for cybersecurity analysis. The CIC-IDS2017 dataset contains benign and six common attack network flows, which mirror the true real-world data (PCAPs). Additionally, it contains labeled flows based on timestamps, source and destination IP addresses, source and destination ports, protocols, and attack from the network traffic analysis performed using CICFlowMeter.
 
 The obtained data set was stored in 8 different CSV files. These are drawn separately as working hours on Monday, working hours on Tuesday, working hours on Wednesday, morning working hours and afternoon working hours on Thursday, and both morning and afternoon working hours on Friday. Friday afternoon working hours appear in two ways: portscan and DDOS. 
 
 Within the scope of this project, it is aimed to detect and classify cyber security threats by applying various data mining techniques on the CIC-IDS2017 dataset. 
 
+### The Steps for Analyzing the Data and Training the Models
 First, it is aimed to understand the data set. The preparation of the data set for application to the models was provided by preprocessing steps such as reducing the NaN values, eliminating the multiplexing data, downsampling for the equal distribution of label classes, digitizing the label column for the use of the model, and making correlation and feature selection. And our input data is ready!
 
 <img width="920" alt="image" src="https://github.com/esnylmz/Network_Traffic_Detection/assets/102979440/32f4155d-d4d7-482b-9841-501bf44ce473">
