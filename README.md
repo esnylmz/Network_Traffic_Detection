@@ -8,6 +8,9 @@ The obtained data set was stored in 8 different CSV files. These are drawn separ
 
 Within the scope of this project, it is aimed to detect and classify cyber security threats by applying various data mining techniques on the CIC-IDS2017 dataset. 
 
+### The link of the dataset is included below:
+https://www.kaggle.com/datasets/cicdataset/cicids2017
+
 ### The Steps for Analyzing the Data and Training the Models
 First, it is aimed to understand the data set. The preparation of the data set for application to the models was provided by preprocessing steps such as reducing the NaN values, eliminating the multiplexing data, downsampling for the equal distribution of label classes, digitizing the label column for the use of the model, and making correlation and feature selection. And our input data is ready!
 
