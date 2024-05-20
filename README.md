@@ -91,3 +91,6 @@ Create a new empty folder where you wat to download the project.
 ## Install the required software and libraries if they're not already installed in your editor:
  
  - pip install pandas numpy matplotlib seaborn scikit-learn jupyter
+
+
+https://drive.google.com/drive/folders/1E9MGN7hLnM4JKoCUqetxwTh54J2cX93q?usp=sharing
