@@ -2,11 +2,9 @@
 Network Traffic and Intrusion Detection System with Data Mining Techniques Using the CIC-IDS2017 Dataset
 
 ## Authors
-#### GROUP 10
 - Emine Esin YILMAZ-120200059
 - Pınar Sude GÜRDAMAR-120103073
 - Resul Erdem ARDUÇ-119200056
-- MTH 410
   
 
 ### About the Dataset
